@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Arockia Nirmal Amala# the main title
+title: Arockia Nirmal # the main title
 
 tagline: Test this tagline # it will display as the sub-title
 
