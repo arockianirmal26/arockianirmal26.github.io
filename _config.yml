@@ -23,29 +23,29 @@ title: Arockia NIRMAL Amala Doss # the main title
 tagline: Building Robust Data Solutions - From Database Design to Cloud Automation # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  As a data engineer with over six years of experience, I specialize in designing, building, and automating data pipelines for a variety of clients. I am proficient in Python, SQL, and a range of ETL tools, and have extensive experience working on the AWS platform. My expertise in database modeling and design, combined with my skills in data warehousing and ETL development, allow me to create solutions that are both efficient and scalable. I take pride in my ability to solve complex problems and deliver robust, reliable solutions that meet my clients' needs. Whether you're looking to build a new data pipeline, optimize an existing system, or automate your data workflows, I have the skills and experience to help you achieve your goals.
+  As a data engineer with over eight years of experience, I specialize in designing, building, and automating data pipelines for a variety of clients. I am proficient in Python, SQL, and a range of ETL tools, and have extensive experience working on the AWS platform. My expertise in database modeling and design, combined with my skills in data warehousing and ETL development, allow me to create solutions that are both efficient and scalable. I take pride in my ability to solve complex problems and deliver robust, reliable solutions that meet my clients' needs. Whether you're looking to build a new data pipeline, optimize an existing system, or automate your data workflows, I have the skills and experience to help you achieve your goals.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: arockianirmal26 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+  #username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Arockia Nirmal Amala Doss
+  email: nirmal@arockianirmal.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # https://twitter.com/username # change to your twitter homepage
+    - https://github.com/arockianirmal26 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/arockianirmal
 
 google_site_verification: # fill in to your verification string
 
