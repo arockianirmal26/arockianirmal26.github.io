@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Arockia Nirmal Amala Doss
-  email: nirmal@arockianirmal.com # change to your email address
+  email: arockianirmal26@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your twitter homepage
@@ -77,10 +77,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://github.com/arockianirmal26/Assets/blob/07da093b6945f249717e0a7d1a36d8f5e7879c06/IMG_7274.JPG'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
