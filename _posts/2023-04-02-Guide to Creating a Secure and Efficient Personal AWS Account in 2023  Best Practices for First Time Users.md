@@ -5,5 +5,5 @@ categories: [Tech, AWS_Account_Creation]
 tags: [aws]     # TAG names should always be lowercase
 ---
 
-![img-description](C:/Users/arock/Documents/VS_Repo/arockianirmal26.github.io/assets/1/new_aws.jpg)
+![img-description](assets/1/new_aws.jpg)
 _Overview_
