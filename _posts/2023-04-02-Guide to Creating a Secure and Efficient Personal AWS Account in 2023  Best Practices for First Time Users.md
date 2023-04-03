@@ -31,9 +31,34 @@ _Overview_
 
 <p>Signing up for an AWS account is a 5 step process. The process can be started with the following link </p>
 
-**[EFF](https://portal.aws.amazon.com/billing/signup#/start/email)**.
+**[Sign up for AWS](https://portal.aws.amazon.com/billing/signup#/start/email)**.
+
+<p>
+In the initial step, you will be asked for a root user email address and an account name. Root user must be strictly used only for administrative functions like account recovery, billing etc. For developing/using services in AWS, it is always recommended to create separate users with minimal or required privileges. We will create an Admin user later in this article.
+After the above step you need to verify your email address with a one time password which will be sent to your root email address.
+
+**Step 1**: After the email verification, you are asked to create a password for a root user. AWS requires that your password meet the following conditions: It must have a minimum of 8 characters and a maximum of 128 characters. Make sure to create a strong password with special characters.
+**Step 2**: Here you will asked for your contact information and your usage type (choose Personal- for your own projects).
+**Step 3**: Now its time for entering your billing information. Your credit/debit card will be validated in this step.
+**Step 4**: Your identity will be confirmed in this step. You could opt to receive either a text message or a voice call.
+**Step 5**: You will be asked to select a support plan. It is recommended to opt for 'Basic support - Free' plan for new users who are just getting started with AWS.
+
+Congratulations you are now successfully created your personal AWS account! Now we will perform some essential setups and also secure your AWS account.
+</p>
 
 <h1>Login as a root user & secure(MFA) root user</h1>
+
+<p>
+Once the account has been created, you might be redirected to the login page where you can login again as a root user. 
+In order to secure the root user we need to add MFA(Multifactor Authentication) for the root user. Search for IAM in the home page of the AWS management console and open IAM dashboard.
+</p>
+
+![Secure User with MFA](/assets/1/MFA_Root.png)
+_Secure User with MFA_
+
+<p>
+Under 'security recommendations' click 'Add MFA' and follow the instructions. For example you could use Google/Microsoft authenticator in your smartphone for this purpose. Also make sure that the root user have no active access keys since root user will not be used to perform daily tasks.
+</p>
 
 <h1>Create an Admin user with required permissions</h1>
 
