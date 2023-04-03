@@ -27,4 +27,28 @@ _Overview_
   <li>Best practices & Recommendations</li>
 </ol>
 
+<h1>Sign up for an AWS account</h1>
+
+<p>Signing up for an AWS account is a 5 step process. The process can be started with the following link </p>
+
+**[EFF](https://portal.aws.amazon.com/billing/signup#/start/email)**.
+
+<h1>Login as a root user & secure(MFA) root user</h1>
+
+<h1>Create an Admin user with required permissions</h1>
+
+<h1>Setup account alias</h1>
+
+<h1>Change payment currency preference</h1>
+
+<h1>Update security challenge questions</h1>
+
+<h1>Setup default region/language</h1>
+
+<h1>Set up the AWS CLI</h1>
+
+<h1>Billing alerts/alarm</h1>
+
+<h1>Best practices & Recommendations</h1>
+
 
